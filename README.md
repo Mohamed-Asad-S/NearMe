@@ -159,7 +159,7 @@ Sri Veera's Creations is a large textile retailer and wholesaler in Chennai, kno
 ```
 
 ## OUTPUT
-![alt text](<domo/domoapp/static/Screenshot 2025-11-28 112714.png>)
+![alt text](domo/domoapp/static/domo.png)
 ![alt text](<domo/domoapp/static/Screenshot 2025-11-28 235708.png>)
 ![alt text](<domo/domoapp/static/Screenshot 2025-11-28 235723.png>)
 ![alt text](<domo/domoapp/static/Screenshot 2025-11-28 235730.png>)
